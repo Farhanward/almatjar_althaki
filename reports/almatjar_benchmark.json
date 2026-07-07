@@ -1,0 +1,20 @@
+{
+  "processed": 12000,
+  "errors": 0,
+  "draft_orders": 1989,
+  "escalations": 969,
+  "latency_ms": {
+    "mean": 0.056212391716447506,
+    "p99": 0.09839999256655574,
+    "max": 0.3916000132448971
+  },
+  "memory_mb": {
+    "current": 0.411595,
+    "peak": 0.414434
+  },
+  "elapsed_seconds": 0.6937936999893282,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
